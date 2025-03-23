@@ -1,3 +1,5 @@
+[Deprecated]
+* Use Expo with Typescript.
 # FORCEGYM App React Native con Expo
 
 Este proyecto es una aplicación móvil creada con la ayuda de React Native y Expo.
